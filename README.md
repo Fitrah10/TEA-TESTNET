@@ -1,0 +1,2 @@
+# TEA-TESTNET
+This is testnet TEA INCENTIVIZED
